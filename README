@@ -1,0 +1,5 @@
+This is a sample project with Nose and SubUnit.
+
+To execute it, run nosetests --with-subunit in the src folder.
+
+
